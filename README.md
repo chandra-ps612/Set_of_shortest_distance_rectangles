@@ -1,1 +1,1 @@
-# classical_computer_vision
+# set_of_shortest_distance_rectangles
