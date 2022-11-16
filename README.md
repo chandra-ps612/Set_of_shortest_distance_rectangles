@@ -2,8 +2,10 @@
 
 This repository talks about ``` Classical Computer Vision ``` approach.
 The task is to find out the set of the shortest distance rectangles- 
+
 case- I
 Overlapping rectangles
+
 case II
 Reference: test.png
 
